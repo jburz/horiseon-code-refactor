@@ -1,10 +1,10 @@
-# Horiseon Code Refactor
+# Horiseon Code Refactor ![Top Language Badge](https://img.shields.io/github/languages/top/jburz/horiseon-code-refactor)
 
-This was a project I particitpated in to refactor some legacy markup  from the client's website.  They had asked for some updates to the HTML to improve the website for accessibility.  While working on this, I also encountered a few other items within the HTML and CSS that would improve the efficiency and sustainability of their site which I updated.
+This was a project I particitpated in to refactor some legacy markup from the Horiseon's website.  They had asked for some updates to the HTML to improve the website for accessibility.  While working on this, I also encountered a few other items within the HTML and CSS that would improve the efficiency and sustainability of their site which I updated.
 
-[Horiseon](https://jburz.github.io/horiseon-code-refactor/)
+Link to the [Horiseon homepage](https://jburz.github.io/horiseon-code-refactor/)
 
-![marketing meeting](./assets/images/digital-marketing-meeting.jpg)
+![Horiseon homepage](./assets/images/digital-marketing-meeting.jpg)
 
 
 
@@ -26,3 +26,7 @@ CSS element updates
 HTML element fixes  
 - Fixed broken link for search engine optimization nav list item
 - Added alt attributes to all images except the hero background
+
+## Credits
+
+This website was authored by [Jake Burzlaff](https://www.github.com/jburz).
