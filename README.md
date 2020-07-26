@@ -4,7 +4,7 @@ This was a project I particitpated in to refactor some legacy markup from the Ho
 
 Link to the [Horiseon homepage](https://jburz.github.io/horiseon-code-refactor/)
 
-![Horiseon homepage](./assets/images/digital-marketing-meeting.jpg)
+![Horiseon homepage](./assets/images/website-screenshot.png)
 
 
 
